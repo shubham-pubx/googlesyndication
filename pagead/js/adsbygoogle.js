@@ -1,6 +1,2 @@
-function runAds(){
-    var canRunAds = true
-    return canRunAds
-}
-
-runAds()
+// adcheck.js
+window.__adsNotBlocked = true
